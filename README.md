@@ -27,3 +27,5 @@ npm run dev
 yarn dev
 
 Abrir com o browser http://localhost:5173/ para ver o resultado 
+ou 
+Acesse o link: https://questao21prova.vercel.app/ onde esta hospedado o projeto
