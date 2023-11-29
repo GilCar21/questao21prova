@@ -10,7 +10,8 @@ Use Material-UI ou Bootstrap;
 Botão Enviar – não precisa implementar a funcionalidade
 Enviar o código, que possa ser compilado remotamente;
 
-
+<br/>
+<br/>
 
 Para a criação do projeto foi usado o vite que é uma ferramenta de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos de web modernos
 Alem disso foram usados ReactJS, Yup e Bootstrap como pedido na questão
@@ -20,7 +21,7 @@ Para executar o projeto pasta clonar o repositorio baixar as dependencias usando
 <br/>
 npm i
 <br/>
-<h4>ou</h4>
+ou
 <br/>
 yarn 
 <br/>
@@ -30,13 +31,13 @@ e depois usar o comando
 <br/>
 npm run dev
 <br/>
-<h4>ou</h4>
+ou
 <br/>
 yarn dev
 <br/>
 <br/>
 Abrir com o browser http://localhost:5173/ para ver o resultado 
 <br/>
-<h4>ou</h4> 
+ou 
 <br/>
 Acesse o link: https://questao21prova.vercel.app/ onde esta hospedado o projeto
