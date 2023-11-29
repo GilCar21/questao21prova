@@ -16,16 +16,23 @@ Para a criação do projeto foi usado o vite que é uma ferramenta de construç�
 Alem disso foram usados ReactJS, Yup e Bootstrap como pedido na questão
 
 Para executar o projeto pasta clonar o repositorio baixar as dependencias usando
+<br/>
 npm i
-ou
+<br/>
+### ou
+<br/>
 yarn 
-
+<br/>
 e depois usar o comando
-
+<br/>
 npm run dev
-ou
+<br/>
+### ou
+<br/>
 yarn dev
-
+<br/>
 Abrir com o browser http://localhost:5173/ para ver o resultado 
-ou 
+<br/>
+### ou 
+<br/>
 Acesse o link: https://questao21prova.vercel.app/ onde esta hospedado o projeto
