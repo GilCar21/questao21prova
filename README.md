@@ -17,13 +17,13 @@ Alem disso foram usados ReactJS, Yup e Bootstrap como pedido na questão
 
 Para executar o projeto pasta clonar o repositorio baixar as dependencias usando
 npm i
-# or
+ou
 yarn 
 
 e depois usar o comando
 
 npm run dev
-# or
+ou
 yarn dev
 
 Abrir com o browser http://localhost:5173/ para ver o resultado 
