@@ -17,22 +17,26 @@ Alem disso foram usados ReactJS, Yup e Bootstrap como pedido na questão
 
 Para executar o projeto pasta clonar o repositorio baixar as dependencias usando
 <br/>
+<br/>
 npm i
 <br/>
-### ou
+###ou
 <br/>
 yarn 
 <br/>
+<br/>
 e depois usar o comando
+<br/>
 <br/>
 npm run dev
 <br/>
-### ou
+###ou
 <br/>
 yarn dev
 <br/>
+<br/>
 Abrir com o browser http://localhost:5173/ para ver o resultado 
 <br/>
-### ou 
+###ou 
 <br/>
 Acesse o link: https://questao21prova.vercel.app/ onde esta hospedado o projeto
