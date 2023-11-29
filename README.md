@@ -20,7 +20,7 @@ Para executar o projeto pasta clonar o repositorio baixar as dependencias usando
 <br/>
 npm i
 <br/>
-###ou
+<h4>ou</h4>
 <br/>
 yarn 
 <br/>
@@ -30,13 +30,13 @@ e depois usar o comando
 <br/>
 npm run dev
 <br/>
-###ou
+<h4>ou</h4>
 <br/>
 yarn dev
 <br/>
 <br/>
 Abrir com o browser http://localhost:5173/ para ver o resultado 
 <br/>
-###ou 
+<h4>ou</h4> 
 <br/>
 Acesse o link: https://questao21prova.vercel.app/ onde esta hospedado o projeto
